@@ -142,6 +142,16 @@
             </div>
         </section>
     </main>
+   
+    <section class="container py-4">
+        <div class="text-center">
+            <h2 class="fw-bold">Kontak Sekolah</h2>
+            <p class="text-body-secondary">
+                SDI Plus Nusantara
+            </p>
+            <p class="mb-1">📍 Alamat: Jl. Indonesia | 📞 Telepon: 0856-5689-8539 | ✉️ Email: sdiplusnusantara@gmail.com  </p>
+        </div>
+    </section>
 
     <footer class="container py-4 text-center text-body-secondary">
         <small>&copy; SDI Plus Nusantara PSB Online 2026/2027</small>
